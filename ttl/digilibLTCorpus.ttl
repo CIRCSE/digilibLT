@@ -7,7 +7,7 @@
   dc:title "digilibLT";
   <http://purl.org/dc/terms/contributor> "Eleonora Litta, Lorenzo Reina.";
   <http://purl.org/dc/terms/creator> "Eleonora Litta, Giovanni Moretti, Marco Passarotti.";
-  <http://purl.org/dc/terms/description> "The Bibioteca Digitale di Testi Latini Tardoantichi (DigilibLT, https://digiliblt.uniupo.it/) is a repository of secular prose texts written in Latin in Late Antiquity (from the second to the seventh century AD). The current corpus contains 375 texts.";
+  <http://purl.org/dc/terms/description> "The Biblioteca Digitale di Testi Latini Tardoantichi (DigilibLT, https://digiliblt.uniupo.it/) is a repository of secular prose texts written in Latin in Late Antiquity (from the second to the seventh century AD). The current corpus contains 375 texts.";
   <http://purl.org/dc/terms/license> <http://www.wikidata.org/entity/Q42553662>;
   <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q89883181>;
   rdfs:seeAlso <https://digiliblt.uniupo.it>
